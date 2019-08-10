@@ -186,6 +186,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -284,7 +285,7 @@
       <workItem from="1564991935423" duration="15800000" />
       <workItem from="1565054555518" duration="2576000" />
       <workItem from="1565250027501" duration="9885000" />
-      <workItem from="1565320090599" duration="26505000" />
+      <workItem from="1565320090599" duration="26835000" />
     </task>
     <servers />
   </component>
@@ -321,7 +322,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54766000" />
+    <option name="totallyTimeSpent" value="55096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
